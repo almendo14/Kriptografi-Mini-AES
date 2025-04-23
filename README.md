@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kriptografi Mini-AES 16-bit
 
 ## Deskripsi Proyek
@@ -26,3 +27,8 @@ SBOX = {
     0x8: 0x6, 0x9: 0x2, 0xA: 0x0, 0xB: 0x3,
     0xC: 0xC, 0xD: 0xE, 0xE: 0xF, 0xF: 0x7
 }
+=======
+## Diagram Mini-AES
+
+![Diagram Mini-AES](images/code%20kriptografi.jpg)
+>>>>>>> 342bf5c (Menambahkan gambar ke README)
